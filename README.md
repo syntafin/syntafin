@@ -1,6 +1,6 @@
 <ul>
   <li>🔭 I’m currently working on <a href="https://github.com/XIVDATA/public">XIVDATA</a></li>
-  <li>🌱 I’m currently learning Laravel, PHP, Vue</li>
+  <li>🌱 I’m currently learning Laravel, PHP, Vue, Svelte</li>
   <li>💬 Ask me about anything 😄</li>
   <li>📫 How to reach me: XMPP, Email, Discord</li>
   <li>😄 Pronouns: They/Them</li>
