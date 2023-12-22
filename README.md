@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 
-🔭 I’m currently working on (XIVData)[https://github.com/XIVDATA/public]
+🔭 I’m currently working on [XIVData](https://github.com/XIVDATA/public)
 
 🌱 I’m currently learning Laravel, PHP, Vue, Svelte
 
