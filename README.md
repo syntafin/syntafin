@@ -1,8 +1,8 @@
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d383631393866266865696768743d3230302673656374696f6e3d68656164657226746578743d57656c636f6d652c2532304925](https://github.com/user-attachments/assets/592b033e-d821-4d35-b64e-503432d79868)
 
 
-* 🔭 I’m currently working on XIVData
-* 🌱 I’m currently learning Laravel, PHP, Vue, Svelte
+* 🔭 I’m currently working on an unnamed HeadlessCMS
+* 🌱 I’m currently learning Laravel, PHP, Vue, TypeScript
 * 💬 Ask me about anything 😄
 * 📫 How to reach me: Discord, XMPP, Email
 * 😄 Pronouns: They/Them
